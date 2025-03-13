@@ -1,6 +1,5 @@
-import styles from "./page.module.css";
-import { getOptimizelyExperimentValue } from "./services/optimizely";
-import { getLaunchDarklyExperimentValue } from "./services/launchdarkly";
+import { getOptimizelyExperimentValue } from "@/services/optimizely";
+import { getLaunchDarklyExperimentValue } from "@/services/launchdarkly";
 
 export default function Home() {
   let bannerUrl = "https://picsum.photos/id/238/1920/1080";

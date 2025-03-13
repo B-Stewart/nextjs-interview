@@ -1,6 +1,6 @@
 # Summary
 
-Repository for NextJS practical coding interview.
+Repository for NextJS practical coding interview. Uses page router.
 
 # Getting Started
 

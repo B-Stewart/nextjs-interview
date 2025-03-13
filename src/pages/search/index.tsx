@@ -1,5 +1,5 @@
 import styles from "./page.module.css";
-import { products } from "../services/mock";
+import { products } from "@/services/mock";
 
 export default function SearchPage() {
   return (
